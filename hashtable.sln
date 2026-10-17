@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hashtable", "hashtable.vcxproj", "{1DBF1390-FB2E-41A3-A178-24EA1FB51AF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{13BB8EF0-CC56-44B7-AEFD-2D1437E298BC}"
+	ProjectSection(SolutionItems) = preProject
+		source.s = source.s
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DBF1390-FB2E-41A3-A178-24EA1FB51AF3}.Debug|x64.ActiveCfg = Debug|x64
+		{1DBF1390-FB2E-41A3-A178-24EA1FB51AF3}.Debug|x64.Build.0 = Debug|x64
+		{1DBF1390-FB2E-41A3-A178-24EA1FB51AF3}.Debug|x86.ActiveCfg = Debug|Win32
+		{1DBF1390-FB2E-41A3-A178-24EA1FB51AF3}.Debug|x86.Build.0 = Debug|Win32
+		{1DBF1390-FB2E-41A3-A178-24EA1FB51AF3}.Release|x64.ActiveCfg = Release|x64
+		{1DBF1390-FB2E-41A3-A178-24EA1FB51AF3}.Release|x64.Build.0 = Release|x64
+		{1DBF1390-FB2E-41A3-A178-24EA1FB51AF3}.Release|x86.ActiveCfg = Release|Win32
+		{1DBF1390-FB2E-41A3-A178-24EA1FB51AF3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {043CC097-F12B-4C03-A6F0-90E5CE269BDD}
+	EndGlobalSection
+EndGlobal
